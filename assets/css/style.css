@@ -1,0 +1,12 @@
+body {
+    background-image: url("../images/Black-Abstract-Wavy-Background.jpg");
+    background-size: cover;
+}
+#navbar {
+    background-color: black;
+}
+#designslogo {
+    background-color: black;
+    color: white;
+    margin-left:15px;
+}
