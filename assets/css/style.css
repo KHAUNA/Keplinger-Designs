@@ -1,12 +1,31 @@
 body {
-    background-image: url("../images/Black-Abstract-Wavy-Background.jpg");
+    background-image: url("../images/Background\ Road\ Darkened.jpg");
     background-size: cover;
 }
-#navbar {
-    background-color: black;
-}
 #designslogo {
-    background-color: black;
+    background-image: url("../images/KD\ logo\ files/#designslogo");
     color: white;
     margin-left:15px;
 }
+
+/* .carousel-inner img {
+    width: 100%;
+    height: 100%;
+} */
+ #kd25 {
+     width: 300px;
+     height: auto;
+ }
+
+ /* .carousel-inner > .item > img {
+    width:640px;
+    height:360px;
+  } */
+  /* .carousel-item .item {
+    height: 250px;
+  }
+  .carousel-item .item img{
+    width: 100%;
+    height: 100%;
+  } */
+
