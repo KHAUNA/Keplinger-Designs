@@ -26,4 +26,10 @@ body {
 .card {
   height: 100%;
 }
+.img-responsive-height
+{
+  display: block;
+  width: auto;
+  max-height: 100%
+}
 
