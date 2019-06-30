@@ -18,6 +18,13 @@ body {
      height: auto;
  }
 
+ .nav li:hover>.dropdown-menu {
+  display: block;
+}
+/* #dropdownMenu > .dropdown-menu {  -- trying to make dropdown menu transparant background
+  background:transparent;
+} */
+
  /* .carousel-inner > .item > img {
     width:640px;
     height:360px;
